@@ -47,3 +47,7 @@ footer {
     margin-right: 10px;
     vertical-align: middle;
 }
+#pizza-menu{
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+}
